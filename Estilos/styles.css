@@ -136,6 +136,8 @@ section
 
 .contImgTrabajo
 {
+    width: 17.1rem;
+    height: 29.4rem;
     position: relative;
 }
 
@@ -146,7 +148,7 @@ section
     border-radius: 5rem;
 
     position: absolute;
+    right: 1rem;
     top: 1rem;
-    right: 70rem;
 
 }
